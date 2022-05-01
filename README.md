@@ -3,6 +3,7 @@
 Data Augmentation is the process of randomly transforming image to produce new synthetic images.
 Some of the useful transformation are:-
 -Resize
+
 -Flipping
 -Lighting
 -Color Distort
